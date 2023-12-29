@@ -1,37 +1,40 @@
-# EDA-Airlines-companies
+# EDA - Airlines Companies
 
-Based on the analysis of the provided data and charts, several key conclusions can be drawn:
+## Overview
+This repository presents an Exploratory Data Analysis (EDA) of airline companies based on provided data. The analysis focuses on key aspects such as airline dominance, client preferences, popular routes, ticket pricing, and other relevant factors. The findings offer insights into market dynamics, client behavior, and strategic considerations for airlines.
 
-#### Vistara Airline Dominance:
-The pie chart reveals that Vistara airline is the most preferred choice among clients, with a usage rate of 42.6%. This suggests that Vistara holds a significant share of the market.
+## Key Conclusions
 
-#### Vistara's Strong Performance:
-When comparing the outcomes of different airlines, it is evident that Vistara not only boasts the largest client base but also achieves the highest outcomes. Despite SpiceJet having fewer clients, its outcomes rank third, likely due to its higher-priced tickets.
+1. **Vistara Airline Dominance:**
+   - The pie chart reveals Vistara as the most preferred airline with a usage rate of 42.6%, showcasing its significant market share.
 
-#### Ticket Type and Client Base:
-Among the analyzed airlines (SpiceJet, AirAsia, GoFirst, IndiGo), only Vistara and Air India offer business class tickets. All other airlines exclusively provide economy class tickets. Vistara's dominance is further emphasized by its comprehensive client base and outcomes.
+2. **Vistara's Strong Performance:**
+   - Despite having fewer clients, Vistara achieves the highest outcomes, indicating its superior performance. SpiceJet, with a smaller client base, ranks third in outcomes.
 
-#### Popular Routes:
-The analysis highlights that the 'Delhi to Mumbai' route is the most frequently used by clients. This suggests a higher demand for flights along this route.
+3. **Ticket Type and Client Base:**
+   - Vistara and Air India offer business class tickets, while other airlines exclusively provide economy class tickets. Vistara's dominance is evident from its comprehensive client base.
 
-#### City Preference:
-The data indicates that 'Mumbai' is the most popular destination city, while 'Delhi' is the most frequently chosen source city. This might reflect the influence of these major metropolitan areas.
+4. **Popular Routes:**
+   - The 'Delhi to Mumbai' route is the most frequently used, suggesting higher demand for flights along this route.
 
-#### Outcomes and Flight Duration:
-The flight route 'Chennai to Bangalore' emerges with the highest outcomes, potentially indicating its popularity among clients. Interestingly, the duration of a flight does not seem to have a substantial impact on outcomes.
+5. **City Preference:**
+   - 'Mumbai' is the most popular destination city, and 'Delhi' is the most frequently chosen source city.
 
-#### Ticket Pricing:
-An analysis of ticket prices reveals a discrepancy between Delhi and Mumbai routes, with Mumbai having the highest-priced economy tickets, whereas Delhi has more expensive business class tickets. This could be attributed to differing market preferences and economic factors.
+6. **Outcomes and Flight Duration:**
+   - The 'Chennai to Bangalore' route stands out with the highest outcomes, emphasizing its popularity. Flight duration does not significantly impact outcomes.
 
-#### Days Left and Pricing:
-There is an inverse relationship between the number of days left before a flight and the ticket price. As the departure date approaches, ticket prices tend to increase.
+7. **Ticket Pricing:**
+   - Ticket prices vary between Delhi and Mumbai routes, with Mumbai having higher-priced economy tickets and Delhi having more expensive business class tickets.
 
-#### Stopovers:
-The data indicates that flights with one stopover are the most common across all airlines, suggesting that this is the preferred choice for clients.
+8. **Days Left and Pricing:**
+   - There is an inverse relationship between the number of days left before a flight and ticket prices. Prices tend to increase as the departure date approaches.
 
-In conclusion, the provided data and charts paint a picture of Vistara's dominant position in the market, followed by Air India, while SpiceJet stands out for its outcomes despite having a smaller client base. Client preferences vary based on routes, ticket types, and pricing, underscoring the complexity of factors that influence their decisions. The findings also emphasize the importance of strategic pricing and route selection to maximize outcomes and meet customer preferences.
+9. **Stopovers:**
+   - Flights with one stopover are the most common, indicating a preference for this option among clients.
 
+## Instructions
 
+1. **Data Analysis:**
+   - Review the Jupyter Notebook for a detailed analysis, visualizations, and insights.
 
-
-
+The EDA sheds light on critical aspects of airline company dynamics, aiding in strategic decision-making. Happy analyzing! ✈️📊
